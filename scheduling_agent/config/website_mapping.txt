@@ -1,0 +1,3 @@
+ODI,World Cup,https://example.com/odi/worldcup
+T20,IPL,https://example.com/t20/ipl
+Test,Ashes,https://example.com/test/ashes 

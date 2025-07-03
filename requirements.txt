@@ -1,0 +1,7 @@
+google-generativeai
+google-adk
+pandas
+openpyxl
+requests
+beautifulsoup4
+db-sqlite3
